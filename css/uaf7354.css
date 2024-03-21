@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'work';
+					src: url('../fonts/8526WORK.woff2') format('woff2'),
+						url('../fonts/8526WORK.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.work{font-family: 'work' !important;}
+
+		
